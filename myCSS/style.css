@@ -206,7 +206,7 @@ footer{
 }
 
 footer .container {
-    height: 125px;
+    height: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -237,7 +237,7 @@ footer p {
     }
     .boxes .box {
         text-align: center;
-        padding: 10px 30px;
+        padding: 25px 30px;
         padding-top: 60px;
     }
     #mapid {
@@ -249,6 +249,9 @@ footer p {
     }
     .statement img {
         height: 200px;
+    }
+    footer .container {
+        height: 80px;
     }
 }
 
