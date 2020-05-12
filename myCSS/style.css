@@ -4,21 +4,10 @@
     box-sizing: border-box;
 }
 
-/* .content{
-    font-size: 16px;
-    font-family: sans-serif;
-    color: blue;
-    font-weight: bold;
-    margin: 20px 0;
-    border: 1px solid #ddd;
-    padding: 20px;
-} */
-
 #mapid { 
     height: 300px; 
     width: 500px;
 }
-
 
 figure{
     position: relative;
@@ -65,8 +54,6 @@ figure{
     display: block;
   } */
 
-
-
 .statement{
     background-image: url("../myIMG/bg.jpg");
     background-repeat: no-repeat;
@@ -75,20 +62,7 @@ figure{
     background-attachment: fixed;
   }
 
-  /* .statement p{
-    margin: 0;
-    text-align: center;
-    font-size: 32px;
-    font-weight: 700;
-    letter-spacing: 2px;
-  } */
-
-  .statement img{
-    /* margin: 0;
-    text-align: center;
-    font-size: 32px;
-    font-weight: 700;
-    letter-spacing: 2px; */
+.statement img{
     height: 250px;
     width: 96%;
   }
@@ -138,19 +112,13 @@ body {
     justify-content: center;
     align-items: center;
     height: 1000px;
-    /* height: 100%; */
 }
 
 .header h1 {
-    /* position: relative; */
-    /* left: -15%; */
-    /* top: -3%; */
     font-size: 60px;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 5px;
-    /* margin-left: -280px; */
-    /* margin-top: -50px; */
 }
 
 .boxes {
@@ -303,4 +271,3 @@ footer p {
         height: 110px;
     }
 }
-
